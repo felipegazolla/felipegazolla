@@ -9,3 +9,5 @@
 - `HTML`
 - `CSS`
 - `JavaScript`
+- `ReactJS`
+- `ReactNative`
