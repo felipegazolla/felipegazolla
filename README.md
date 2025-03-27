@@ -2,19 +2,14 @@
 
 ###
 
-<p align="left">🙋🏻‍♂️ I`m Felipe Gazolla</p>
+<p align="left">🙋🏻‍♂️ Felipe Gazolla</p>
+
+
+<p align="left">✨ Creating bugs📚</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs for a short time<br>📚 I'm currently learning React Native</p>
-
-###
-
-<h2 align="left">My current stack</h2>
+<h2 align="left">My current Stack</h2>
 
 ###
 
